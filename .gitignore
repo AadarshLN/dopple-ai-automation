@@ -1,0 +1,33 @@
+# Virtual environment
+myenv/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Chrome user data (DrissionPage browser profile)
+C*Chrome*User*Data*/
+ChromeUserData/
+chrome_user_data/
+
+# Generated output files
+responses_*.json
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
