@@ -16,6 +16,7 @@ chrome_user_data/
 
 # Generated output files
 responses_*.json
+responses.json
 
 # Environment variables
 .env
